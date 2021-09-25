@@ -1,0 +1,12 @@
+.president{
+    background-image: linear-gradient(lightblue, lightgray);
+    box-shadow: 5px 5px 10px lightskyblue;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.president-image{
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
