@@ -1,7 +1,8 @@
 .header{
-    background-color: lightcyan;
+    background-image: linear-gradient(lightblue, lightgray);
     text-align: center;
     width: 75%;
     margin: auto;
     padding: 5px 0px;
+    border-radius: 10px;
 }
